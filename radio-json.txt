@@ -1,0 +1,49 @@
+{
+  "response": {
+    "-type": "result",
+    "data": {
+      "item": {
+        "title": "stream",
+        "song": "Hawaiian Style Band - Wahine 'Ilikea [1994]",
+        "track": {
+          "artist": "Hawaiian Style Band",
+          "title": "Wahine 'Ilikea [1994]",
+          "royaltytrackid": "0",
+          "id": "43094",
+          "length": "0",
+          "playlist": {
+            "id": "2708",
+            "title": "Aloha auinapo (The Night Show)"
+          },
+          "imageurl": "https://s20.postimg.cc/4bg3ml68t/hsb1.jpg"
+        },
+        "bitrate": "64 Kbps",
+        "server": "Online",
+        "autodj": "Online",
+        "source": "Yes",
+        "summary": {
+          "a": {
+            "-href": "http://199.195.194.92:2199/tunein/-stream/meyima03.pls",
+            "#text": "stream - Hawaiian Style Band - Wahine 'Ilikea [1994]"
+          }
+        },
+        "listeners": "3",
+        "maxlisteners": "100",
+        "reseller": "0",
+        "serverstate": "1",
+        "sourcestate": "1",
+        "sourceconn": "1",
+        "date": "Nov 23, 2020",
+        "time": "03:37 AM",
+        "rawmeta": "Hawaiian Style Band - Wahine 'Ilikea [1994]",
+        "mountpoint": "/stream",
+        "tuneinurl": "http://199.195.194.94:8183/stream",
+        "tuneinformat": "aac",
+        "webplayer": "muses",
+        "servertype": "IceCast",
+        "listenertotal": "3",
+        "url": "http://199.195.194.92:2199/rpc"
+      }
+    }
+  }
+}

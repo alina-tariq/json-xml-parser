@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="radio.xsl"?>
+
+<response type="result">
+<data>
+<item>
+<title>stream</title>
+<song>Kapena - Just One Look [1987]</song>
+<track>
+<artist>Kapena</artist>
+<title>Just One Look [1987]</title>
+<album/>
+<royaltytrackid>0</royaltytrackid>
+<started/>
+<id>43224</id>
+<length>0</length>
+<playlist>
+<id>2707</id>
+<title> Aloha ahiahi (The Evening Show)</title>
+</playlist>
+<buyurl/>
+<imageurl>https://s20.postimg.cc/ay5k0u15p/kapena2.jpg</imageurl>
+</track>
+<bitrate>64 Kbps</bitrate>
+<server>Online</server>
+<autodj>Online</autodj>
+<source>Yes</source>
+<offline/>
+<summary><a href="http://199.195.194.92:2199/tunein/-stream/meyima03.pls">stream - Kapena - Just One Look [1987]</a></summary>
+<listeners>3</listeners>
+<maxlisteners>100</maxlisteners>
+<reseller>0</reseller>
+<serverstate>1</serverstate>
+<sourcestate>1</sourcestate>
+<sourceconn>1</sourceconn>
+<date>Nov 22, 2020</date>
+<time>08:35 PM</time>
+<rawmeta>Kapena - Just One Look [1987]</rawmeta>
+<mountpoint>/stream</mountpoint>
+<tuneinurl>http://199.195.194.94:8183/stream</tuneinurl>
+<directtuneinurl/>
+<proxytuneinurl/>
+<tuneinformat>aac</tuneinformat>
+<webplayer>muses</webplayer>
+<servertype>IceCast</servertype>
+<listenertotal>3</listenertotal>
+<url>http://199.195.194.92:2199/rpc</url>
+</item>
+</data>
+</response>
